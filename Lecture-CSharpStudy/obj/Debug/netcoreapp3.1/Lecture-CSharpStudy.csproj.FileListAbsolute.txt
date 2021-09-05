@@ -1,0 +1,13 @@
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpStudy.exe
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpStudy.deps.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpStudy.runtimeconfig.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpStudy.runtimeconfig.dev.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpStudy.dll
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpStudy.pdb
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpStudy.csprojAssemblyReference.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpStudy.AssemblyInfoInputs.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpStudy.AssemblyInfo.cs
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpStudy.csproj.CoreCompileInputs.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpStudy.dll
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpStudy.pdb
+C:\developer\unityws\lecture\vs\Lecture-CSharpStudy\Lecture-CSharpStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpStudy.genruntimeconfig.cache
